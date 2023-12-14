@@ -1,0 +1,16 @@
+{
+  "name": "xx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "img.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@img/sharp-win32-x64": "^0.33.0",
+    "sharp": "^0.33.0"
+  }
+}
